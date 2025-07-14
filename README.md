@@ -4,9 +4,8 @@ A comprehensive fitness tracking application built with the MERN stack (MongoDB,
 
 ## 🚀 Live Demo
 
-- Frontend: [Deployed on Vercel](https://fitness-tracker-mern.vercel.app)
-- Backend API: [Deployed on Render](https://fitness-tracker-api.onrender.com)
-- Demo Video: [Watch the demo](https://youtu.be/demo-video-link)
+- Frontend: [Deployed on Vercel](week-8-capstone-kerrynk-mgi3lmxky-kerrynks-projects.vercel.app)
+- Backend API: [Deployed on Render](https://week-8-capstone-kerrynk.onrender.com)
 
 ## ✨ Features
 
@@ -219,15 +218,19 @@ npm run test:e2e      # Run end-to-end tests
 ## 📸 Screenshots
 
 ### Dashboard
+
 ![Dashboard](docs/screenshots/dashboard.png)
 
 ### Fitness Entry Form
+
 ![Entry Form](docs/screenshots/entry-form.png)
 
 ### Progress Charts
+
 ![Charts](docs/screenshots/charts.png)
 
 ### Mobile Responsive
+
 ![Mobile](docs/screenshots/mobile.png)
 
 ## 🤝 Contributing
